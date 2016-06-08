@@ -1,0 +1,16 @@
+git cheakout -b branch_name
+
+---------
+proces
+vim ..
+nano..
+
+git add files
+git commit -m 'message'
+
+loop
+---------
+
+git cheakout master
+git merge --no-ff branch_name
+git branch -d branch_name
